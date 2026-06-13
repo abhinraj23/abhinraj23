@@ -17,4 +17,5 @@ Python | LangChain | LangGraph | FastAPI
 
 ## Connect
 LinkedIn: https://www.linkedin.com/in/abhinraj-298952252?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 Location: Kerala, India
