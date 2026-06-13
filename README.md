@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Abhinraj
 
-<!--
-**abhinraj23/abhinraj23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Systems Developer - building 
+multi-agent automation for recruitment 
+and marketing agencies.
 
-Here are some ideas to get you started:
+## Currently Building
+- Recruitment AI Automation System
+- Marketing Agency Content Pipeline
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Python | LangChain | LangGraph | FastAPI
+
+## Projects
+- ai-learning-journal - documenting 
+  the full build journey
+
+## Connect
+LinkedIn: https://www.linkedin.com/in/abhinraj-298952252?utm_source=share_via&utm_content=profile&utm_medium=member_android
+Location: Kerala, India
